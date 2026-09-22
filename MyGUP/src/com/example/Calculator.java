@@ -17,4 +17,11 @@ public class Calculator {
     public int modulus(int a, int b) {
         return a % b;
     }
+    
+    public int multiple10(int a) {
+        return a *10;
+    }
+    public int multipe20(int a) {
+        return a *20;
+    }
 }
