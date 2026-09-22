@@ -4,11 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        User user = new User("Rakesh kumar", 25);
+       // User user = new User("Rakesh kumar", 25);
+    	User user = new User("vignesh kumar", 25);
 
         Calculator calculator = new Calculator();
 
-        int result = calculator.add(11, 40);
+        int result = calculator.add(12, 40);
 
         MessageService messageService = new MessageService();	
 
