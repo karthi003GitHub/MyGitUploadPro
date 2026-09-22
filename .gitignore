@@ -1,0 +1,10 @@
+.metadata/
+RemoteSystemsTempFiles/
+
+# Java compiled files
+**/bin/
+*.class
+
+# Log and temporary files
+*.log
+*.tmp
