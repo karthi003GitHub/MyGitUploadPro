@@ -18,7 +18,10 @@ public class Calculator {
         return a % b;
     }
     
-    public int multipl10e(int a) {
+    public int multiple10(int a) {
         return a *10;
+    }
+    public int multipe20(int a) {
+        return a *20;
     }
 }
