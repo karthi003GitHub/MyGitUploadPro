@@ -24,4 +24,7 @@ public class Calculator {
     public int multipe20(int a) {
         return a *20;
     }
+    public int multipe30(int a) {
+        return a *30;
+    }
 }
